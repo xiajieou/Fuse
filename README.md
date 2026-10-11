@@ -1,4 +1,4 @@
-# (1st Place) 🏆 Fuse - Columbia University Divhacks Fall'26
+# (1st Place) 🏆 Fuse - Columbia University DivHacks Fall'26
 
 An AI agent that pays vendor invoices on the XRP Ledger without being able to lose the company's money.
 
